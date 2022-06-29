@@ -29,14 +29,14 @@ organizations:
 education:
   courses:
     - course: PhD in Linguistics
-      institution: University of Pisa/ Aix-Marseille University
-      year: -1
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Pisa / Aix-Marseille University
+      year: 2022
+    - course: Msc in Digital Humanities - Language Technologies
+      institution: University of Pisa
+      year: 2018
+    - course: "BSc in Digital Humanities "
+      institution: University of Pisa
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
